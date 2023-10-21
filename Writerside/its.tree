@@ -4,7 +4,7 @@
 
 <instance-profile id="its"
                  name="internships"
-                 start-page="starter-topic.md">
+                 start-page="internships_starter.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="internships_starter.md"/>
 </instance-profile>
